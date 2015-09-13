@@ -1,7 +1,7 @@
 # GoogleMapWithDirection
 Google map with direction Visualforce component. 
 
-
+[Installation Package] (https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002ZhH )
 
 This is visualforce compoenent. 
 
@@ -15,7 +15,5 @@ like
 ```
 <c:mapWithDirection strStartAddress='vashi sector 12, Navi mumbai, Maharastra, India' strDestinationAddress='vashi sector 30, Navi mumbai, Maharastra, India'/>
 ```
-[Installation Package] (https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002ZhH )
 
-Thanks!
-Ratan
+![Google map with direction](https://raw.githubusercontent.com/RatanPaul/imges/master/img/GMapWithDirection.png)
