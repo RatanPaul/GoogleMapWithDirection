@@ -1,6 +1,8 @@
 # GoogleMapWithDirection
 Google map with direction Visualforce component. 
 
+[Demo Link](https://ap2-developer-edition.ap1.force.com/pages/RN_GMapWithDirection)
+
 [Website](http://ratanpaul.github.io/GoogleMapWithDirection/)
 
 [Installation Package] (https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002ZhH )
